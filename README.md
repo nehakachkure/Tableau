@@ -23,6 +23,33 @@ Sales & Profitability Analysis
 Strategy & Planning
 Stakeholder Communication
 
+![Image](https://github.com/user-attachments/assets/23d42d02-9f7a-4380-83d4-c56f83b0d9bf)
 
+
+--Electric Vehicle (EV) Data Analysis Dashboard--
+This project presents a dynamic dashboard that visualizes and analyzes Electric Vehicle (EV) registration data across the United States. It highlights trends in electric range, vehicle popularity, regional distribution, and Clean Alternative Fuel Vehicle (CAFV) eligibility.
+
+* Dashboard Features
+1) Total Vehicles Analyzed: 68,943
+2) Average Electric Range: 90.21 miles
+3) State Distribution: Interactive U.S. map showing EV registration by state
+4) Yearly Growth: Line chart showing increase in EV registrations by model year (2011–2023)
+5) Top Manufacturers: Tesla leads with 55.60% of total EVs
+6) CAFV Eligibility Breakdown:
+Eligible: 37.51%
+Unknown: 62.49%
+7) Top Models:
+Model Y and Model 3 (both Tesla) make up over 81% of total vehicles
+8) Filters Included: CAFV Eligibility, EV Type, Model, and State
+
+🛠* Tools Used
+Tableau 
+Source Data: Likely from a public EV registration database 
+
+* Use Cases
+EV market penetration analysis
+Environmental and energy planning
+Regional infrastructure planning for EVs
+Policy review and decision support for clean vehicle incentives
 
 
