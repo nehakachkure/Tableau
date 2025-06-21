@@ -1,6 +1,7 @@
 # Tableau
 
 --Insurance Stakeholder Insights & Performance Dashboard--
+
 This project showcases a comprehensive interactive dashboard designed to analyze stakeholder insights and performance metrics for an insurance company. The dashboard consolidates key financial indicators, operational ratios, and demographic breakdowns to support data-driven decision-making.
 
 * Features
@@ -21,4 +22,7 @@ Management Reporting
 Sales & Profitability Analysis
 Strategy & Planning
 Stakeholder Communication
+
+
+
 
